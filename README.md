@@ -1,6 +1,6 @@
 # Card Preview (Kushed-Strain-Review-Freebies)
 
-• This page created on May 26, 2018.
+• This page was created on May 26, 2018.
 
 It's a part of my Front-end web development daily practice.
 
